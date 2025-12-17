@@ -1,0 +1,6 @@
+streamlit
+pandas
+pymongo
+gTTS
+python-dotenv
+geocoder
